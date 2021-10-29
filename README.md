@@ -1,8 +1,4 @@
  # 💻 growtopia-proxy
-
-<div allign="center">
- <img src="https://static.thenounproject.com/png/2146913-200.png" alt="Logo" width="80" height="80">    
- </div>
 > enetproxy originaly created by Ama, modified by srmotion and further developed by me
  
 <img src="https://img.shields.io/static/v1?label=Version&message=2.4&color=orange"></img>
