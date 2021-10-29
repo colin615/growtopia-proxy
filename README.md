@@ -3,14 +3,17 @@
  
 <img src="https://img.shields.io/static/v1?label=Version&message=2.4&color=orange"></img>
 ## 🚩 Table of Contents
+- [How to use](#-usage)
 - [Commands and features](#-features)
+
+
+## 🔨 Usage
+
 
 ## 💡 Features
 * Print all variantlists and function calls
 * Print all text packets
 * Supports modifying, ignoring, and making new packets
-* /legal command to clear malpractice without owning legal briefs
-* More commands which you can find in the changelog
 * Has a PoC /name name command to call OnNameChanged function for local client.
 * Has a PoC OnSpawn modifier which appends netid to each players' name, and gives you unlim zoom
 * Can both intercept outgoing and incoming packets
