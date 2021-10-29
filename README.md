@@ -3,7 +3,7 @@
  
 <img src="https://img.shields.io/static/v1?label=Version&message=2.4&color=orange"></img>
 ## 🚩 Table of Contents
-- [Commands and features](#-features)
+- [Commands and features](#features)
 
 # Features
 hello test test 
