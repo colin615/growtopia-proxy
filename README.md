@@ -1,4 +1,7 @@
-# 💻 growtopia-proxy
+<div allign="center">
+ # 💻 growtopia-proxy
+ <img src="https://static.thenounproject.com/png/2146913-200.png">
+ </div>
 > enetproxy originaly created by Ama, modified by srmotion and further developed by me
  
 <img src="https://img.shields.io/static/v1?label=Version&message=2.4&color=orange"></img>
@@ -6,7 +9,7 @@
 - [How to use](#-usage)
 - [Commands and features](#-features)
 - [Credits](#-credits)
-- 
+- [Changelog](#-changelog)
 
 
 ## 🔨 Usage
@@ -17,7 +20,7 @@
 ## 💡 Features
 * Print all variantlists and function calls
 * Print all text packets
-* Supports modifying, ignoring, and making new packets
+* Supports modifying, ignoring, and m=2aking new packets
 * Has a PoC /name name command to call OnNameChanged function for local client.
 * Has a PoC OnSpawn modifier which appends netid to each players' name, and gives you unlim zoom
 * Can both intercept outgoing and incoming packets
@@ -34,6 +37,8 @@
 * Visual Spin
 * World Lock Troll
 * Pull/kick/ban all
+
+## 
 
 ## 📑 Credits
 * Latest versions coded by Colin 
