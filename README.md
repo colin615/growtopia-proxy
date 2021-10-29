@@ -9,6 +9,7 @@
 
 ## 🔨 Usage
 * Build with Release x64 on Windows, start auto parse server_data.php and edits hosts file, no seperate http server required
+* Download .exe for pre-compiled version , might not be available for every version so download source for latest update
 
 ## 💡 Features
 * Print all variantlists and function calls
