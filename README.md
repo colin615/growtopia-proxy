@@ -5,11 +5,14 @@
 ## 🚩 Table of Contents
 - [How to use](#-usage)
 - [Commands and features](#-features)
+- [Credits](#-credits)
+- 
 
 
 ## 🔨 Usage
 * Build with Release x64 on Windows, start auto parse server_data.php and edits hosts file, no seperate http server required
 * Download .exe for pre-compiled version , might not be available for every version so download source for latest update
+
 
 ## 💡 Features
 * Print all variantlists and function calls
@@ -31,3 +34,8 @@
 * Visual Spin
 * World Lock Troll
 * Pull/kick/ban all
+
+## 📑 Credits
+* Latest versions coded by Colin 
+* Built off modified enetproxy made by srmotion
+* Based off original enetproxy by Ama 
