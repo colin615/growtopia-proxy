@@ -1,5 +1,6 @@
-<div allign="center">
  # 💻 growtopia-proxy
+
+<div allign="center">
  <img src="https://static.thenounproject.com/png/2146913-200.png">
  </div>
 > enetproxy originaly created by Ama, modified by srmotion and further developed by me
