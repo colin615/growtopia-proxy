@@ -40,7 +40,8 @@
 * World Lock Troll
 * Pull/kick/ban all
 
-## 
+## 📝 Changelog
+* Version x.x
 
 ## 📑 Credits
 * Latest versions coded by Colin 
